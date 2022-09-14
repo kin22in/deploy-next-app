@@ -1,1 +1,1 @@
-## THIS is PR template first version
+## This is PR template first version
